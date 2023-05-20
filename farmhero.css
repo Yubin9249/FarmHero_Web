@@ -1,6 +1,5 @@
 nav {
   font-size: 12pt;
-  font-family: "PT Sans", Arial, Sans-serif;
   position: relative;
 }
 nav ul {
@@ -45,7 +44,7 @@ li {
 li a {
   color: #000000;
   text-align: center;
-  padding: 14.5px 16px;
+  padding: 14px 16px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -68,7 +67,6 @@ li a:hover {
 }
 
 .mainMenu li::after {
-  position: absolute;
   content: "";
   display: block;
   border-bottom: 3px solid #000;
@@ -79,7 +77,6 @@ li a:hover {
 
 .mainMenu li:hover::after {
   transition: all 250ms ease-out;
-  left: 0%;
   width: 100%;
 }
 
@@ -94,3 +91,45 @@ li a:hover {
   font-size: 300%;
   float: left;
 }
+
+#weather_widget{
+  position: absolute;
+  box-sizing: border-box;
+  border: 5px solid black;
+  right: 65%;
+  top: 35%;
+}
+
+#Calendarimg{
+  position: absolute;
+  top: 80%;
+  left: 10%;
+  width: 7%;
+  height: 15%;
+}
+
+#current_date{
+  position: absolute;
+  top: 85%;
+  left: 18%;
+  font-size: 40px;
+  font-family: "Han Sans 본고딕", sans-serif;
+  font-weight: bold;
+}
+
+#Temperatureimg{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  width:9%;
+  height:13%;
+}
+
+#Humidityimg{
+  position: absolute;
+  top: 25%;
+  left: 65%;
+  width: 9%;
+  height: 13%;
+}
+
