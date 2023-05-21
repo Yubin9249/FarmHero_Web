@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf222176-c61c-4004-850e-2b4cb8d329b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf222176-c61c-4004-850e-2b4cb8d329b5" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/farmhero.css" beforeDir="false" afterPath="$PROJECT_DIR$/farmhero.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/4652326.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/70555.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/91988.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/다운로드.jfif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +59,17 @@
       <workItem from="1684484952168" duration="413000" />
       <workItem from="1684485389176" duration="895000" />
       <workItem from="1684486315120" duration="397000" />
-      <workItem from="1684563634984" duration="6094000" />
+      <workItem from="1684563634984" duration="6155000" />
+      <workItem from="1684651816639" duration="2526000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1684573673774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684573673774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
