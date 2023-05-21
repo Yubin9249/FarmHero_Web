@@ -96,22 +96,22 @@ li a:hover {
   position: absolute;
   box-sizing: border-box;
   border: 5px solid black;
-  right: 65%;
-  top: 35%;
+  right: 62%;
+  top: 30%;
 }
 
 #Calendarimg{
   position: absolute;
   top: 80%;
   left: 10%;
-  width: 7%;
-  height: 15%;
+  width: 5%;
+  height: 13%;
 }
 
 #current_date{
   position: absolute;
-  top: 85%;
-  left: 18%;
+  top: 83%;
+  left: 16%;
   font-size: 40px;
   font-family: "Han Sans 본고딕", sans-serif;
   font-weight: bold;
@@ -121,7 +121,7 @@ li a:hover {
   position: absolute;
   top: 25%;
   left: 50%;
-  width:9%;
+  width:7%;
   height:13%;
 }
 
@@ -129,7 +129,41 @@ li a:hover {
   position: absolute;
   top: 25%;
   left: 65%;
-  width: 9%;
+  width: 5.5%;
+  height: 12%;
+}
+
+#carbon_dioxideimg{
+  position: absolute;
+  top: 25%;
+  left: 80%;
+  width: 7%;
   height: 13%;
 }
+
+#solar_radiationimg{
+  position: absolute;
+  top: 50%;
+  left: 57.5%;
+  width: 7%;
+  height: 13%;
+}
+
+#soil_humidityimg{
+  position: absolute;
+  top: 50%;
+  left: 72.5%;
+  width: 7%;
+  height: 13%;
+}
+
+#feedbacksec{
+  position: absolute;
+  top: 70%;
+  left: 47%;
+  font-family: "Han Sans 본고딕", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
 
