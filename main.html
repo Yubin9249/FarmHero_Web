@@ -11,7 +11,9 @@
   <body>
     <div class="menu">
       <nav class="mainMenu">
+        <!--상단메뉴-->
         <ul class="mainMenu">
+          <!--로고 이미지-->
             <img
               id="logo_farmhero"
               src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\LogoOfFarmhero.png"
@@ -19,21 +21,16 @@
               width="5%"
               height="5%"
             />
+          <!--로고 텍스트-->
             <span class="logo-text">FarmHero</span>
           </li>
-
-          <li><a href="http://www.naver.com">DashBoard</a></li>
-          <li><a href="http://www.google.com">과거데이터</a></li>
-          <li>
-            <a href="https://chat.openai.com/chat">예측데이터</a>
-          </li>
+          <!--메뉴바 링크 텍스트-->
+          <li><a href="file:///C:/Users/yyb92/IdeaProjects/FarmHero_web/main.html">DashBoard</a></li>
+          <li><a href="file:///C:/Users/yyb92/IdeaProjects/FarmHero_web/lastdata.html">과거데이터</a></li>
+          <li><a href="https://chat.openai.com/chat">예측데이터</a></li>
           <li><a href="https://weatherwidget.org/ko/">CCTV</a></li>
-          <li>
-            <a href="https://ovenapp.io/view/FG7J8BiXYDKoKFLjapLav7sWv3hzRqTC/"
-              >etc.</a
-            >
-          </li>
-        </ul>
+          <li><a href="https://ovenapp.io/view/FG7J8BiXYDKoKFLjapLav7sWv3hzRqTC/">etc.</a></li>
+          </ul>
         <a id="pull" href="#"></a>
       </nav>
     </div>
@@ -46,6 +43,7 @@
       </article>
 
       <article id="date">
+        <!--달력 이미지-->
         <img
                 id="Calendarimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\calender.png"
@@ -53,6 +51,7 @@
 
         />
         <div id="current_date"></p>
+          <!--현재 날짜-->
           <script>
             date = new Date();
             year = date.getFullYear();
@@ -66,30 +65,31 @@
 
     <section id="sensor">
       <article id="sensor_value">
+        <!--온도계 이미지-->
         <img
                 id="Temperatureimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\Temperature.png"
                 alt="Temperatureimg"
         />
-
+        <!--습도 이미지-->
         <img
                 id="Humidityimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\Humidity.png"
                 alt="Humidityimg"
         />
-
+        <!--이산화탄소 이미지-->
         <img
                 id="carbon_dioxideimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\carbon dioxide.png"
                 alt="carbon_dioxideimg"
         />
-
+        <!--일사량 이미지-->
         <img
                 id="solar_radiationimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\solar radiation.png"
                 alt="solar_radiationimg"
         />
-
+        <!--토양 습도 이미지-->
         <img
                 id="soil_humidityimg"
                 src="C:\Users\yyb92\IdeaProjects\FarmHero_web\pic\soil humidity.png"
@@ -99,6 +99,7 @@
 
       <article id="feedback">
         <div id="feedbacksec">
+          <!--피드백-->
           <p>FeedBack</p>
           <textarea type = "text" name = "feedbackbox" disabled cols="100" rows="10"/></textarea>
         </div>
