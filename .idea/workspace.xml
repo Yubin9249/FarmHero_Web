@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf222176-c61c-4004-850e-2b4cb8d329b5" name="Changes" comment="3 commit" />
+    <list default="true" id="cf222176-c61c-4004-850e-2b4cb8d329b5" name="Changes" comment="3 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lastdata.css" beforeDir="false" afterPath="$PROJECT_DIR$/lastdata.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lastdata.html" beforeDir="false" afterPath="$PROJECT_DIR$/lastdata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/Humidity.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/Humidity.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -41,7 +55,18 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yyb92\IdeaProjects\FarmHero_web" />
+      <recent name="C:\Users\yyb92\IdeaProjects\FarmHero_web\FarmHero_web" />
+      <recent name="C:\Users\yyb92\IdeaProjects\FarmHero_web\FarmHero_web\pic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yyb92\IdeaProjects\FarmHero_web\FarmHero_web\pic" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +81,9 @@
       <workItem from="1684486315120" duration="397000" />
       <workItem from="1684563634984" duration="6155000" />
       <workItem from="1684651816639" duration="2587000" />
+      <workItem from="1684654484768" duration="76000" />
+      <workItem from="1684732256424" duration="11500000" />
+      <workItem from="1684816685095" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1684573673774</created>
@@ -78,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684654420238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 commit">
+      <created>1684654506872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684654506872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 commit">
+      <created>1684736991943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684736991943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
